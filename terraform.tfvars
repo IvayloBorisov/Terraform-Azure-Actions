@@ -1,5 +1,5 @@
 resource_group_name     = "TaskboardRG"
-resource_group_location = "West Europe"
+resource_group_location = "North Europe"
 app_service_plan_name   = "taskboard-serviceplan"
 app_service_name        = "taskboard-linux-app"
 sqlserver_service_name  = "taskboard-sqlserver"
